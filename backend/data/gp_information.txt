@@ -1,0 +1,37 @@
+
+FICTIONAL GP SURGERY — DEMONSTRATION DATA
+
+Practice name:
+Green Valley Medical Centre
+
+Opening hours:
+Monday to Friday: 8:00 AM to 6:30 PM.
+Saturday and Sunday: Closed.
+
+Appointments:
+Patients can request appointments by contacting reception.
+Same-day appointments are subject to availability.
+Appointments cannot currently be booked directly through this AI chatbot.
+
+Repeat prescriptions:
+Patients can request repeat prescriptions through the practice's online services.
+Requests normally take two working days to process.
+The chatbot cannot prescribe or approve medication.
+
+Test results:
+Patients should contact the GP surgery for information about their test results.
+The chatbot cannot access patient records or interpret results.
+
+Registration:
+New patients should contact reception to ask about registration requirements.
+
+Contact information:
+The practice telephone number has not been provided in this demonstration dataset.
+
+Urgent help:
+For life-threatening emergencies, call 999.
+For urgent medical help that is not life-threatening, NHS 111 may be appropriate.
+
+Data protection:
+This is a fictional practice.
+No real patient information should be submitted to this demonstration system.

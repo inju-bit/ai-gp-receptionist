@@ -1,0 +1,57 @@
+
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Node dependencies
+node_modules/
+dist/
+build/
+.vite/
+
+# IDE and macOS files
+.DS_Store
+.vscode/
+.idea/
+
+# Whisper and ML models
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.bin
+*.safetensors
+
+# Chroma vector database
+chroma_db/
+**/chroma_db/
+
+# Local SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Audio recordings and crash files
+*.wav
+*.webm
+*.mp3
+*.mp4
+*.ogg
+core
+core.*
+*.crash
+
+# Logs and temp files
+*.log
+*.tmp
+tmp/
